@@ -2,4 +2,4 @@ This directory contains the synthetic abstracts used in the tutorial in plain fo
 
 If you do use these material, please do attribute them to our organisers as required.
 
-All materials in this repo are [CC-BY-NC-4.0](/LICENSE-CC-BY-NC-4.0.md)
+All materials in this repo are [CC-BY-4.0](/LICENSE-CC-BY-4.0.md)

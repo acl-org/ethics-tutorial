@@ -30,7 +30,7 @@ Other formats might consider:
 * [Introduction](#i)
 * [Tutorial Slides](#ts)
 * [Tutorial Recording](#tr)
-* [Activities](#a)
+* [Activity](#a) - Critiquing Ethical Concerns in Synthetic Abstracts.
 * [Resources](#r)
 
 ## <a id="i">Introduction</a>
@@ -57,10 +57,10 @@ We conducted the tutorial in an active classroom style, where participants were 
 
 After introducing the organisers and the format and resources of the tutorial, the first segment featured two lecture segments, both focused on introductory and foundational material on ethics.
 
-The presentation deck for the tutorial lives in a public, shared Google Drive permalink: [http://bit.ly/eacl23-ethics-slides](http://bit.ly/eacl23-ethics-slides) but for posterity, we have also archived forms here in this repository:
+The presentation deck for the tutorial lives in a public, shared Google Slides permalink: [http://bit.ly/eacl23-ethics-slides](http://bit.ly/eacl23-ethics-slides) but for posterity, we have also archived forms here in this repository:
 
-* [PDF, local copy](slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf) - created from the Google Slides origin deck
-* [Microsoft Powerpoint, local copy](slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx) - created from the Google Slides origin deck
+* <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf">PDF, local copy</a> - created from the Google Slides origin deck
+* <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx">Microsoft Powerpoint, local copy</a> - created from the Google Slides origin deck
 
 The first segment (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  
 _This segment originated from Karën Fort._
@@ -71,11 +71,12 @@ The second segment (Slides 40-70) focuses on appropriate use and application, bi
 A final presentation segment (Slides 86-99) reprised work from Benotti and Blackburn (2022) [_Ethical Consideration Sections in Natural Language Processing Papers_](https://aclanthology.org/2022.emnlp-main.299/), which examined such written ECS in NLP papers to analyze the issues covered in terms of 1) research benefits, 2) potential harms, and 3) vulnerable groups affected.  It covers the differences between geographical region's reporting of such issues
  _This segment originated from Luciana Benotti._
 
-The remainder of the slides were framing materials 
+The remainder of the slides were framing materials to help introduce the tutorial, and set up the abstract critique exercise.
+
  _This segment originated from Min-Yen Kan and all presenters._
 ## <a id="tr">Tutorial Recording</a>
 
-## <a id="a">Activities</a>
+## <a id="a">Activity</a>
 
 ## <a id="r">Resources</a>
 
@@ -88,3 +89,7 @@ The tutorial (Slide 109) also concluded with a list of faculty courses (by our p
 https://courses.cs.washington.edu/courses/cse582/23sp/
 * (In Spanish) Benotti and Alonso Alemany. Ética Práctica para Ciencia de Datos. 
 https://sites.google.com/view/etica-practica-cd/ 
+
+### Copyright
+
+All materials in this repo are [CC-BY-NC-4.0](LICENSE-CC-BY-NC-4.0.md)

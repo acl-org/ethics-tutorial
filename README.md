@@ -119,8 +119,10 @@ We provide 6 abstracts below with a gloss of their topical concern.  In our EACL
 
 ## <a id="r">Resources</a>
 
-* The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  We will also deposit the full report for the survey and associated presentation slides, to be presented live at ACL (Toronto, Canada) on 11 July 2023.
-
+* The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  To be presented live at ACL (Toronto, Canada) on 11 July 2023.
+  * Full report for the survey (forthcoming)
+  * Associated presentation slides (forthcoming)
+   
 * The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list) - also mentioned in Slide 110
 
 The tutorial (Slide 109) also concluded with a list of faculty courses (by our presenters, certainly there are more out there) that have also taught similar topics.  For expediency we list them directly here:

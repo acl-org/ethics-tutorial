@@ -77,7 +77,21 @@ The remainder of the slides were framing materials to help introduce the tutoria
 
 ## <a id="a">Activity</a>
 
-The hands-on activity in the tutorial starts with a 5 minute introduction of the activity and a short review of the individual abstracts, which are also described in the slides.
+The hands-on activity in the tutorial starts with a 5-minute introduction of the activity and a short review of the individual abstracts, which are also described in the slides.  Participants were grouped into random groups, which had to elect a scribe and a presenter.  The scribe serves as a secretariat for typing in the notes from their group; and the presenter is delegated as the person in the group to present the findings to the entire tutorial audience.  Each group was assigned one of the abstracts to read and critique.
+
+The critique of the abstracts is run in two phases.  In the first phase, groups discuss first to prepare a single slide for silent sharing with other groups (Segment 2).  In this second phase (Segment 4), the groups could enlarge their thinking by reflecting on either additional abstracts, the single shared slide from each group, or both.
+
+After both phases were finished, each group presented elements of their findings, with the faciltators structuring and probing for issues and clarity on different aspects.  
+
+### Materials
+
+The activity was run using a scribe document where the organizers communicated information (the abstracts below and the instructions) and solicited the audience's feedback on the overall session.  
+
+* [Scribe Document (.pdf)](activity\[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf)
+* [Scribe Document (.docx)](activity\[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx)
+
+However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
+
 
 We provide 6 abstracts below with a gloss of their topical concern.  In our EACL 2023 instance, we ran only the first three, due to the smaller number of participants.
 
@@ -87,6 +101,7 @@ We provide 6 abstracts below with a gloss of their topical concern.  In our EACL
 4. [Language Resource Collection from Protected Groups](abstracts/4.txt)
 5. [Multilingual Sentiment and Crowdsourced Annotation](abstracts/5.txt)
 6. [Large language model use in healthcare](abstracts/6.txt)
+
 
 ## <a id="r">Resources</a>
 

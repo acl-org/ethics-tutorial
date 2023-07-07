@@ -39,9 +39,11 @@ Other formats might consider:
 
 In 2022, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
 
-The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
+The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.  We produced a [teaser](teaser/teaser.mp4) to accompany the [published tutorial abstract](https://aclanthology.org/2023.eacl-tutorials.4/).
 
-The tutorial and its materials were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  This required a good facilitator-to-group ratio, to ensure all of the participants had a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
+The tutorial and its materials* were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  This required a good facilitator-to-group ratio, to ensure all of the participants had a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
+
+*<sub>(Due to the sensitive nature of our EACL 2023 participants' contribution, we have scrubbed the QR coded and shortlinked materials of their presence; if any party wants to access the original document we have these archived but not in this repository nor linked to here.  Please contact us directly)</sub>
 
 |**Segment Topic**                                             |**Led By**             |
 |--------------------------------------------------------------|-----------------------|
@@ -74,7 +76,7 @@ The remainder of the slides were framing materials to help introduce the tutoria
 
 ## <a id="tr">Tutorial Recording</a>
 
-
+The recordings are too large to fit into our Github repo here, but the links do work to retrieve the scrubbed recordings of the 
 ## <a id="a">Activity</a>
 
 The hands-on activity in the tutorial starts with a 5-minute introduction of the activity and a short review of the individual abstracts, which are also described in the slides.  Participants were grouped into random groups, which had to elect a scribe and a presenter.  The scribe serves as a secretariat for typing in the notes from their group; and the presenter is delegated as the person in the group to present the findings to the entire tutorial audience.  Each group was assigned one of the abstracts to read and critique.
@@ -87,10 +89,11 @@ After both phases were finished, each group presented elements of their findings
 
 The activity was run using a scribe document where the organizers communicated information (the abstracts below and the instructions) and solicited the audience's feedback on the overall session.  
 
-* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf">Scribe Document (.pdf)</a>
-* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx">Scribe Document (.docx)</a>
+* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf">Template Scribe Document (.pdf)</a> - scrubbed
+* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx">Template Scribe Document (.docx)</a> - scrubbed
 
 However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
+
 
 
 We provide 6 abstracts below with a gloss of their topical concern.  In our EACL 2023 instance, we ran only the first three, due to the smaller number of participants.

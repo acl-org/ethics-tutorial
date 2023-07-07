@@ -14,9 +14,19 @@ Authors:
 * [Tutorial Slides](#ts)
 * [Tutorial Recording](#tr)
 * [Activities](#a)
+* [Resources](#r)
+
+
+## Introduction
+
+[Proposal file](proposal\Ethics_Tutorial_Proposal.pdf)
 
 ## <a id="ts">Tutorial Slides</a>
 
 ## <a id="tr">Tutorial Recording</a>
 
 ## <a id="a">Activities</a>
+
+## <a id="r">Resources</a>
+
+* The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list)

@@ -66,17 +66,28 @@ The presentation deck for the tutorial lives in a public, shared Google Slides p
 * <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf">PDF, local copy</a> - created from the Google Slides origin deck
 * <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx">Microsoft Powerpoint, local copy</a> - created from the Google Slides origin deck
 
-The first segment (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  _This segment originated from Karën Fort._
+Segment 1A (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  _This segment was presented by Karën Fort._
 
-The second segment (Slides 40-70) focuses on appropriate use and application, biases and evaluation, covering hypothetical and real instances of ethical problems in recent research (Chicken dilemma, IQ prediction, sexual orientation prediction -- the "Gaydar" paper, and how AI and NLP technology influences people both directly and indirectly.  _This segment originated from Yulia Tsvetkov._
+Segment 1B (Slides 40-70) focuses on appropriate use and application, biases and evaluation, covering hypothetical and real instances of ethical problems in recent research (Chicken dilemma, IQ prediction, sexual orientation prediction -- the "Gaydar" paper, and how AI and NLP technology influences people both directly and indirectly.  _This segment was presented by Yulia Tsvetkov._
 
-A final presentation segment (Slides 86-99) reprised work from Benotti and Blackburn (2022) [_Ethical Consideration Sections in Natural Language Processing Papers_](https://aclanthology.org/2022.emnlp-main.299/), which examined such written ECS in NLP papers to analyze the issues covered in terms of 1) research benefits, 2) potential harms, and 3) vulnerable groups affected.  It covers the differences between geographical region's reporting of such issues.  _This segment originated from Luciana Benotti._
+Segment 7A (Slides 86-99) reprised work from Benotti and Blackburn (2022) [_Ethical Consideration Sections in Natural Language Processing Papers_](https://aclanthology.org/2022.emnlp-main.299/), which examined such written ECS in NLP papers to analyze the issues covered in terms of 1) research benefits, 2) potential harms, and 3) vulnerable groups affected.  It covers the differences between geographical region's reporting of such issues.  _This segment was presented by Luciana Benotti._
 
-The remainder of the slides were framing materials to help introduce the tutorial, and set up the abstract critique exercise.  _This segment originated from Min-Yen Kan and all presenters._
+The remainder of the slides (Segment 7B) are framing materials to help introduce the tutorial, and set up the abstract critique exercise.  _This segment was presented by Min-Yen Kan and all presenters._
 
 ## <a id="tr">Tutorial Recording</a>
 
-The recordings are too large to fit into our Github repo here, but the links do work to retrieve the scrubbed recordings of the 
+The files of the recordings are too large to fit into this repository, but the below links to the segments of the scrubbed recordings.  
+
+* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1]() - Karën
+* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1 (with Q/A)]() - Karën
+
+* (Segment 1B) - [Introduction and Foundations for Ethics - Part 2] - Yulia
+* (Segment 1B) - [Introduction and Foundations for Ethics - Part 2 (with Q/A)] - Yulia
+
+* (Segment 7A) - [Ethical Consideration Sections] - Luciana
+
+* (Segment 7B) - [Conclusion] - Min
+
 ## <a id="a">Activity</a>
 
 The hands-on activity in the tutorial starts with a 5-minute introduction of the activity and a short review of the individual abstracts, which are also described in the slides.  Participants were grouped into random groups, which had to elect a scribe and a presenter.  The scribe serves as a secretariat for typing in the notes from their group; and the presenter is delegated as the person in the group to present the findings to the entire tutorial audience.  Each group was assigned one of the abstracts to read and critique.

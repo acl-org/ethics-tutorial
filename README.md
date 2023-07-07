@@ -16,6 +16,14 @@ Authors:
 * [Activities](#a)
 * [Resources](#r)
 
+## How to run your own tutorial or lesson?
+
+We recommend using our base materials here and adapting them to your setting.  
+
+For our tutorial setting in an audience participatory style and approximately 20+ participants and 4 organisers, it was important to:
+* limit the number of groups so that each group could present within the session's time limit;
+* designate particular organisers as those to facilitate virtual participants;
+* have live edit access to online documents to allow participant leads to note take and present.
 
 ## Introduction
 
@@ -36,6 +44,8 @@ The tutorial and its materials were presented in English.  It was structured as 
 |7. Discussing and Troubleshooting Ethics and Further Resources|Presenters             |
 
 We conducted the tutorial in an active classroom style, where participants were self-organized into small groups (in our instance, 2 groups of about 10 participants each), electing leads for subsequent group presentation and worked through the exercises to record their reactions to the materials and identify the issues and conducive outcomes.
+
+Participants 
 
 ## <a id="ts">Tutorial Slides</a>
 

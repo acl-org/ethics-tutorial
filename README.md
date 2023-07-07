@@ -23,21 +23,19 @@ In 2022, the ACL ethics committee decided to propose to run a tutorial on ethics
 
 The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
 
-The tutorial was structured as per the proposal, with 7 segments, each approximately 30 minutes long.
+The tutorial and its materials were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts that represent common ethical issues experienced by ethics review chairs. 
 
-|Segment Topic                                              |Led By                 |
-|-----------------------------------------------------------|-----------------------|
-|Introduction and Foundations for Ethics                    |Presenters             |
-|Case Studies: Problematic Ethical Research — First reading |Participants           |
-|Structured Interaction / Dialogue                          |Presenters,Participants|
-|Case studies — Second reading (Rotation)                   |Participants           |
-|Group Presentations Group                                  |Leads                  |
-|Summary and Common Issues                                  |Presenters             |
-|Discussing and Troubleshooting Ethics and Further Resources|Presenters             |
+|**Segment Topic**                                             |**Led By**             |
+|--------------------------------------------------------------|-----------------------|
+|1. Introduction and Foundations for Ethics                    |Presenters             |
+|2. Case Studies: Problematic Ethical Research — First reading |Participants           |
+|3. Structured Interaction / Dialogue                          |Presenters,Participants|
+|4. Case studies — Second reading (Rotation)                   |Participants           |
+|5. Group Presentations Group                                  |Leads                  |
+|6. Summary and Common Issues                                  |Presenters             |
+|7. Discussing and Troubleshooting Ethics and Further Resources|Presenters             |
 
-Altogether we had 
-
-
+We conducted the tutorial in an active classroom style, where participants were self-organized into small groups (in our instance, 2 groups of about 10 participants each), electing leads for subsequent group presentation and worked through the exercises to record their reactions to the materials and identify the issues and conducive outcomes.
 
 ## <a id="ts">Tutorial Slides</a>
 

@@ -22,6 +22,8 @@ Other formats might consider:
 * Experiential only: use and adapt Segments 2-6, which asks participants to read and critique abstracts that bring up common ethical issues in our community.
 * Student (Homework) Assignment: curate sources from the accompanying [Ethics Reading List](#erl) that the committee maintains, and ask participants to read and write their reflections on.
 
+**If you run a course, tutorial or other session based on these materials, we'd love to hear from you! Please get in contact with us, and we may also (with your permission) list your course or materials in the [Resource](#r) segment.**
+
 # Table of Contents
 (these are internal links to the sections below)
 

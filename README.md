@@ -19,7 +19,15 @@ Authors:
 
 ## Introduction
 
-[Proposal file](proposal/Ethics_Tutorial_Proposal.pdf)
+In 2022, the ACL ethics committee decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
+
+The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
+
+The tutorial was structured as per the proposal, 
+
+Altogether we had 
+
+
 
 ## <a id="ts">Tutorial Slides</a>
 

@@ -10,7 +10,7 @@ Authors:
 
 ## How to run your own tutorial or lesson?
 
-We recommend using our base materials here and adapting them to your setting.  
+We recommend using our base materials here and adapting them to your setting.  Minimally, you need to create your own shortlinks and URL codes to your version of the materials before running, as the archived materials reference our EACL 2023 instance.
 
 For our tutorial setting in an audience participatory style and approximately 20+ participants and 4 organisers, it was important to:
 * limit the number of groups so that each group could present within the session's time limit;

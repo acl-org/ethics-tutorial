@@ -2,7 +2,7 @@
 
 Materials for the EACL 2023 Ethics Tutorial: **Understanding Ethics in NLP Authoring and Reviewing**.
 
-_This repository archives the materials in a reuseable form, related materials (ACL Stakeholder Survey) and also links other contemporary resources.  If you see things missing or needing maintenance, please file an issue or a pull request._
+_This repository archives the materials in a reusable form, related materials (ACL Stakeholder Survey) and also links to other contemporary resources.  If you see things missing or needing maintenance, please file an issue or a pull request._
 
 Authors: 
 * [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
@@ -43,7 +43,7 @@ The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org)
 
 The tutorial and its materials* were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  This required a good facilitator-to-group ratio, to ensure all of the participants had a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
 
-*<sub>(Due to the sensitive nature of our EACL 2023 participants' contribution, we have scrubbed the QR coded and shortlinked materials of their presence; if any party wants to access the original document we have these archived but not in this repository nor linked to here.  Please contact us directly)</sub>
+*<sub>(Due to the sensitive nature of our EACL 2023 participants' contribution, we have scrubbed the QR coded and shortlinked materials of their presence; if any party wants to access the original document we have these archived but not in this repository nor linked to here; please contact us directly)</sub>
 
 |**Segment Topic**                                             |**Led By**             |
 |--------------------------------------------------------------|-----------------------|
@@ -102,10 +102,12 @@ The activity was run using a scribe document where the organizers communicated i
 
 * <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf">Template Scribe Document (.pdf)</a> - scrubbed
 * <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx">Template Scribe Document (.docx)</a> - scrubbed
+* <a href="https://docs.google.com/document/d/1iNpIeXkelcpGl982fCj69RD6oQ61oQ0ijaf7VlcQUjc/edit?usp=sharing">Template Scribe Document (live Google Doc)</a> - view-only; scrubbed
 
 However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
 
-
+* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Activity Deck.pdf">Template Group Slide Presentation (.pdf)</a> -scrubbed 
+* <a href="https://docs.google.com/presentation/d/1BOF8yXdk7JsBxhkCT0jHjdKTEDaqEKmtkLBwpAZK_-0/edit?usp=sharing">Template Group Slide Presentation (live Google Slide link)</a> - view only; scrubbed 
 
 We provide 6 abstracts below with a gloss of their topical concern.  In our EACL 2023 instance, we ran only the first three, due to the smaller number of participants.
 
@@ -115,7 +117,6 @@ We provide 6 abstracts below with a gloss of their topical concern.  In our EACL
 4. [Language Resource Collection from Protected Groups](abstracts/4.txt)
 5. [Multilingual Sentiment and Crowdsourced Annotation](abstracts/5.txt)
 6. [Large language model use in healthcare](abstracts/6.txt)
-
 
 ## <a id="r">Resources</a>
 

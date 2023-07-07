@@ -136,7 +136,7 @@ https://sites.google.com/view/etica-practica-cd/
 
 ### Copyright and Acknowledgements
 
-All materials in this repo are [CC-BY-NC-4.0](LICENSE-CC-BY-NC-4.0.md)
+All materials in this repo are [CC-BY-4.0](LICENSE-CC-BY-4.0.md)
 
 Our presenters would also like to thank the entire ACL Ethics Committee (AEC) for their support and endorsement of the process.
 

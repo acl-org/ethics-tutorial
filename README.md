@@ -25,13 +25,18 @@ For our tutorial setting in an audience participatory style and approximately 20
 * designate particular organisers as those to facilitate virtual participants;
 * have live edit access to online documents to allow participant leads to note take and present.
 
+Other formats might consider:
+* Lecture only: use and adapt the lecture materials from the first and seventh segments of the tutorial.
+* Experiential only: use and adapt Segments 2-6, which asks participants to read and critique abstracts that bring up common ethical issues in our community.
+* Student (Homework) Assignment: curate sources from the accompanying [Ethics Reading List](#erl) that the committee maintains, and ask participants to read and write their reflections on.
+
 ## Introduction
 
 In 2022, the ACL ethics committee decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
 
 The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
 
-The tutorial and its materials were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts that represent common ethical issues experienced by ethics review chairs. 
+The tutorial and its materials were presented in English.  It was structured as per the proposal, in seven segments, each approximately 30 minutes long.  It was participatory in nature, requiring the audience to work in groups on synthetic problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs. 
 
 |**Segment Topic**                                             |**Led By**             |
 |--------------------------------------------------------------|-----------------------|

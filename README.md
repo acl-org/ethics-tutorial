@@ -87,8 +87,8 @@ After both phases were finished, each group presented elements of their findings
 
 The activity was run using a scribe document where the organizers communicated information (the abstracts below and the instructions) and solicited the audience's feedback on the overall session.  
 
-* [Scribe Document (.pdf)](activity\[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf)
-* [Scribe Document (.docx)](activity\[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx)
+* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.pdf">Scribe Document (.pdf)</a>
+* <a href="activity/[Template] Understanding Ethics in NLP Authoring and Reviewing — Scribe Document.docx">Scribe Document (.docx)</a>
 
 However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
 

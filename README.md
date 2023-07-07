@@ -55,9 +55,10 @@ We conducted the tutorial in an active classroom style, where participants were 
 
 After introducing the organisers and the format and resources of the tutorial, the first segment featured two lecture segments, both focused on introductory and foundational material on ethics.
 
-The presentation deck for the tutorial lives in a public shared Google Drive link: [http://bit.ly/eacl23-ethics-slides](http://bit.ly/eacl23-ethics-slides), but for posterity, we have also archived sanitized forms within this repository:
+The presentation deck for the tutorial lives in a public, shared Google Drive permalink: [http://bit.ly/eacl23-ethics-slides](http://bit.ly/eacl23-ethics-slides) but for posterity, we have also archived forms here in this repository:
 
-*
+* [PDF, local copy](slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf) - created from the Google Slides origin deck
+* [Microsoft Powerpoint, local copy](slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx) - created from the Google Slides origin deck
 
 The first segment (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  
 _This segment originated from Karën Fort._
@@ -85,7 +86,3 @@ The tutorial (Slide 109) also concluded with a list of faculty courses (by our p
 https://courses.cs.washington.edu/courses/cse582/23sp/
 * (In Spanish) Benotti and Alonso Alemany. Ética Práctica para Ciencia de Datos. 
 https://sites.google.com/view/etica-practica-cd/ 
-
-
-
-

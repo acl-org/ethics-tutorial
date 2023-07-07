@@ -77,6 +77,17 @@ The remainder of the slides were framing materials to help introduce the tutoria
 
 ## <a id="a">Activity</a>
 
+The hands-on activity in the tutorial starts with a 5 minute introduction of the activity and a short review of the individual abstracts, which are also described in the slides.
+
+We provide 6 abstracts below with a gloss of their topical concern.  In our EACL 2023 instance, we ran only the first three, due to the smaller number of participants.
+
+1. [Facial Recognition](abstracts/1.txt)
+2. [Social Media Dataset Collection](abstracts/2.txt)
+3. [Cost-prohibitive Language Models](abstracts/3.txt)
+4. [Language Resource Collection from Protected Groups](abstracts/4.txt)
+5. [Multilingual Sentiment and Crowdsourced Annotation](abstracts/5.txt)
+6. [Large language model use in healthcare](abstracts/6.txt)
+
 ## <a id="r">Resources</a>
 
 * The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  We will also deposit the full report for the survey and associated presentation slides, to be presented live at ACL (Toronto, Canada) on 11 July 2023.

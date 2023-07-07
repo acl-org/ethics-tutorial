@@ -19,7 +19,7 @@ Authors:
 
 ## Introduction
 
-[Proposal file](proposal\Ethics_Tutorial_Proposal.pdf)
+[Proposal file](proposal/Ethics_Tutorial_Proposal.pdf)
 
 ## <a id="ts">Tutorial Slides</a>
 

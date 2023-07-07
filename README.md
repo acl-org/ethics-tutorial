@@ -1,6 +1,8 @@
 # Ethics Tutorial
 
-Materials for the EACL 2023 Ethics Tutorial: Understanding Ethics in NLP Authoring and Reviewing
+Materials for the EACL 2023 Ethics Tutorial: **Understanding Ethics in NLP Authoring and Reviewing**.
+
+_This repository archives the materials in a reuseable form, related materials (ACL Stakeholder Survey) and also links other contemporary resources.  If you see things missing or needing maintenance, please file an issue or a pull request._
 
 Authors: 
 * [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
@@ -35,7 +37,7 @@ Other formats might consider:
 
 ## <a id="i">Introduction</a>
 
-In 2022, the ACL ethics committee decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
+In 2022, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the committee chairs and Luciana Benotti (a member of the committee) put together a the [proposal file](proposal/Ethics_Tutorial_Proposal.pdf) and submitted it to the joint call for tutorial proposals.
 
 The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
 
@@ -62,25 +64,24 @@ The presentation deck for the tutorial lives in a public, shared Google Slides p
 * <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pdf">PDF, local copy</a> - created from the Google Slides origin deck
 * <a href="slides/Understanding Ethics in NLP Authoring and Reviewing – Presentation Deck.pptx">Microsoft Powerpoint, local copy</a> - created from the Google Slides origin deck
 
-The first segment (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  
-_This segment originated from Karën Fort._
+The first segment (Slides 6-39) covers the definition and scope of ethics; its origins; virtue, deontological and utilitarian forms of ethics; experiments and policy reactions to ethical violation (Nuremburg Trials and Code, Belmont Report).  _This segment originated from Karën Fort._
 
-The second segment (Slides 40-70) focuses on appropriate use and application, biases and evaluation, covering hypothetical and real instances of ethical problems in recent research (Chicken dilemma, IQ prediction, sexual orientation prediction -- the "Gaydar" paper, and how AI and NLP technology influences people both directly and indirectly.
- _This segment originated from Yulia Tsvetkov._
+The second segment (Slides 40-70) focuses on appropriate use and application, biases and evaluation, covering hypothetical and real instances of ethical problems in recent research (Chicken dilemma, IQ prediction, sexual orientation prediction -- the "Gaydar" paper, and how AI and NLP technology influences people both directly and indirectly.  _This segment originated from Yulia Tsvetkov._
 
-A final presentation segment (Slides 86-99) reprised work from Benotti and Blackburn (2022) [_Ethical Consideration Sections in Natural Language Processing Papers_](https://aclanthology.org/2022.emnlp-main.299/), which examined such written ECS in NLP papers to analyze the issues covered in terms of 1) research benefits, 2) potential harms, and 3) vulnerable groups affected.  It covers the differences between geographical region's reporting of such issues
- _This segment originated from Luciana Benotti._
+A final presentation segment (Slides 86-99) reprised work from Benotti and Blackburn (2022) [_Ethical Consideration Sections in Natural Language Processing Papers_](https://aclanthology.org/2022.emnlp-main.299/), which examined such written ECS in NLP papers to analyze the issues covered in terms of 1) research benefits, 2) potential harms, and 3) vulnerable groups affected.  It covers the differences between geographical region's reporting of such issues.  _This segment originated from Luciana Benotti._
 
-The remainder of the slides were framing materials to help introduce the tutorial, and set up the abstract critique exercise.
+The remainder of the slides were framing materials to help introduce the tutorial, and set up the abstract critique exercise.  _This segment originated from Min-Yen Kan and all presenters._
 
- _This segment originated from Min-Yen Kan and all presenters._
 ## <a id="tr">Tutorial Recording</a>
+
 
 ## <a id="a">Activity</a>
 
 ## <a id="r">Resources</a>
 
-* The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list)
+* The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  We will also deposit the full report for the survey and associated presentation slides, to be presented live at ACL (Toronto, Canada) on 11 July 2023.
+
+* The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list) - also mentioned in Slide 110
 
 The tutorial (Slide 109) also concluded with a list of faculty courses (by our presenters, certainly there are more out there) that have also taught similar topics.  For expediency we list them directly here:
 
@@ -90,6 +91,18 @@ https://courses.cs.washington.edu/courses/cse582/23sp/
 * (In Spanish) Benotti and Alonso Alemany. Ética Práctica para Ciencia de Datos. 
 https://sites.google.com/view/etica-practica-cd/ 
 
-### Copyright
+### Copyright and Acknowledgements
 
 All materials in this repo are [CC-BY-NC-4.0](LICENSE-CC-BY-NC-4.0.md)
+
+Our presenters would also like to thank the entire ACL Ethics Committee (AEC) for their support and endorsement of the process.
+
+* Luciana Benotti, committee member (Americas) [she/her] 2021–2024
+* Mark Drezde, committee member (Americas) [he/him] 2021–2024
+* Karën Fort, co-chair (Europe/Africa) [she/her] 2021–2026
+* Pascale Fung, committee member (Asia/Oceania) [she/her] 2021–2024
+* Dirk Hovy, committee member (Europe/Africa) [he/him] 2021–2024
+* Min-Yen Kan, co-chair (Asia/Oceania) [he/him] 2021–2026
+* Jin-Dong Kim, committee member (Asia/Oceania) [he/him] 2021–2024
+* Malvina Nissim, committee member (Europe/Africa) [she/her] 2021–2024
+* Yulia Tsvetkov, co-chair (Americas) [she/her] 2021–2026

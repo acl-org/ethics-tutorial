@@ -32,7 +32,7 @@ Other formats might consider:
 * [Introduction](#i)
 * [Tutorial Slides](#ts)
 * [Tutorial Recording](#tr)
-* [Activity](#a) - Critiquing Ethical Concerns in Synthetic Abstracts.
+* [Activity](#a)
 * [Resources](#r)
 
 ## <a id="i">Introduction</a>
@@ -78,8 +78,8 @@ The remainder of the slides (Segment 7B) are framing materials to help introduce
 
 The files of the recordings are too large to fit into this repository, but the below links to the segments of the scrubbed recordings.  
 
-* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1]() - Karën
-* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1 (with Q/A)]() - Karën
+* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1](https://drive.google.com/file/d/1iqCfM0ew_hkcMTmPb7vvEhyS0Rx-y0me/view?usp=sharing) - Karën
+* (Segment 1A) - [Introduction and Foundations for Ethics - Part 1 (with Q/A)](https://drive.google.com/file/d/1ZYBnhhif_Z_8pUeH2kedaFY_zZ5F3ez2/view?usp=sharing) - Karën
 
 * (Segment 1B) - [Introduction and Foundations for Ethics - Part 2] - Yulia
 * (Segment 1B) - [Introduction and Foundations for Ethics - Part 2 (with Q/A)] - Yulia

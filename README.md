@@ -23,7 +23,17 @@ In 2022, the ACL ethics committee decided to propose to run a tutorial on ethics
 
 The tutorial was eventually accepted to run at [EACL 2023](http://2023.eacl.org) (Dubrovnik, Croatia, 2-6 May 2023) on Saturday, 6 May as part of the 1/2-day AM events.
 
-The tutorial was structured as per the proposal, 
+The tutorial was structured as per the proposal, with 7 segments, each approximately 30 minutes long.
+
+|Segment Topic                                              |Led By                 |
+|-----------------------------------------------------------|-----------------------|
+|Introduction and Foundations for Ethics                    |Presenters             |
+|Case Studies: Problematic Ethical Research — First reading |Participants           |
+|Structured Interaction / Dialogue                          |Presenters,Participants|
+|Case studies — Second reading (Rotation)                   |Participants           |
+|Group Presentations Group                                  |Leads                  |
+|Summary and Common Issues                                  |Presenters             |
+|Discussing and Troubleshooting Ethics and Further Resources|Presenters             |
 
 Altogether we had 
 

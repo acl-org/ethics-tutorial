@@ -121,7 +121,7 @@ We provide 6 abstracts below with a gloss of their topical concern.  In our EACL
 ## <a id="r">Resources</a>
 
 * The ACL Ethics Stakeholder Survey - Prior to the tutorial, the AEC also conducted a survey of our ACL stakeholders, to help priortize ethics needs of our community.  This tutorial is a direct result of that mandate.  To be presented live at ACL (Toronto, Canada) on 11 July 2023.
-  * Full report for the survey (forthcoming)
+  * Full report for the survey (draft): [Yes, We Care (more)! Results of the 2021 Ethics and Natural Language Processing Survey](survey/yes_we_care_more_results_of_the_2021_ethics_and_natural_language_processing_survey.pdf)
   * Associated presentation slides (forthcoming)
    
 * The ACL Ethics Reading List - [https://github.com/acl-org/ethics-reading-list](https://github.com/acl-org/ethics-reading-list) - also mentioned in Slide 110
